@@ -1,0 +1,1 @@
+A simple set of classes representing the integer types with identical performance (assuming an optimizing compiler) but that disallow all implicit conversions.
